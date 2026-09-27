@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deth.png">
+	<!-- Created with Adobe Animate version 24.0.10.14 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dethIdle instance 10000" x="822" y="10" width="255" height="548" frameX="-2" frameY="-7" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10001" x="822" y="10" width="255" height="548" frameX="-2" frameY="-7" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10002" x="552" y="10" width="255" height="553" frameX="-1" frameY="-2" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10003" x="552" y="10" width="255" height="553" frameX="-1" frameY="-2" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10004" x="10" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10005" x="10" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10006" x="281" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10007" x="281" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10008" x="281" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10009" x="281" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10010" x="281" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10011" x="281" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10012" x="281" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10013" x="281" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+	<SubTexture name="dethIdle instance 10014" x="281" y="10" width="256" height="555" frameX="0" frameY="0" frameWidth="257" frameHeight="555"/>
+</TextureAtlas>

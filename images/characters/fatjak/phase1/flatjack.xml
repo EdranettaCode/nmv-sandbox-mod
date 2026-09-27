@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flatjack.png">
+	<!-- Created with Adobe Animate version 24.0.10.14 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FlatjackIdle instance 10000" x="742" y="796" width="353" height="763" frameX="0" frameY="-10" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10001" x="742" y="796" width="353" height="763" frameX="0" frameY="-10" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10002" x="742" y="10" width="351" height="771" frameX="0" frameY="-2" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10003" x="742" y="10" width="351" height="771" frameX="0" frameY="-2" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10004" x="376" y="10" width="351" height="772" frameX="0" frameY="-1" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10005" x="376" y="10" width="351" height="772" frameX="0" frameY="-1" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10006" x="376" y="797" width="351" height="772" frameX="0" frameY="-1" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10007" x="376" y="797" width="351" height="772" frameX="0" frameY="-1" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10008" x="10" y="10" width="351" height="773" frameX="0" frameY="0" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10009" x="10" y="10" width="351" height="773" frameX="0" frameY="0" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10010" x="10" y="798" width="351" height="773" frameX="0" frameY="0" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10011" x="10" y="798" width="351" height="773" frameX="0" frameY="0" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10012" x="10" y="798" width="351" height="773" frameX="0" frameY="0" frameWidth="353" frameHeight="773"/>
+	<SubTexture name="FlatjackIdle instance 10013" x="10" y="798" width="351" height="773" frameX="0" frameY="0" frameWidth="353" frameHeight="773"/>
+</TextureAtlas>
